@@ -13,6 +13,7 @@ The 0-shot and few-shot pipelines are provided in individual experiment notebook
 
 ## Citation
 If you use this code in your research, please cite our paper:
+```bibtex
 @article{pillai2024fall_detection,
   title={Improving postsurgical fall detection for older Americans using LLM-driven analysis of clinical narratives},
   author={Pillai, Malvika and others},
@@ -20,3 +21,7 @@ If you use this code in your research, please cite our paper:
   year={2024},
   publisher={Cold Spring Harbor Laboratory}
 }
+```
+
+## Contact
+For any questions or issues, please contact Malvika Pillai, PhD (mpillai@stanford.edu).
